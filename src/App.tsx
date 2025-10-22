@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <span>Ceś</span>
+      <span>Ceś 2</span>
     </div>
   );
 }
