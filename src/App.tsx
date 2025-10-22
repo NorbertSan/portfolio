@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <span>Bercikom</span>
+      <span>Ceś</span>
     </div>
   );
 }
